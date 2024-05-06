@@ -1,5 +1,4 @@
-## Name: Hema lokitha P
-## Ref no: 212223110014
+
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
